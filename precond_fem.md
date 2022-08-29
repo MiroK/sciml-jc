@@ -1,5 +1,6 @@
 # Preconditioners and Finite elements
 
+- [The best constant in a trace inequality](https://www.sciencedirect.com/science/article/pii/0022247X9290263D)
 - [Uniform Estimates for Dirichlet Problems in Perforated Domains](https://arxiv.org/abs/2208.12198)
 - [Mixed-dimensional linked models of diffusion: mathematical analysis and stable finite element discretizations](https://arxiv.org/abs/2208.07600)
 - [Natural Factor Based Solvers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lbfc2joAAAAJ&sortby=pubdate&citation_for_view=lbfc2joAAAAJ:TaaCk18tZOkC)
