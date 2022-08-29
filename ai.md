@@ -5,7 +5,7 @@
 - [Physics-Aware Neural Networks for Boundary Layer Linear Problems](https://arxiv.org/abs/2208.12559)
 - [Greedy Training Algorithms for Neural Networks and Applications to PDEs](https://arxiv.org/abs/2107.04466)
 - [Data-driven discovery of Green's functions with human-understandable deep learning](https://arxiv.org/abs/2105.00266)
-- [Accelerating Algebraic Multigrid Methods via Artificial Neural Networks](https://arxiv.org/abs/2111.01629)
+- 1>> [Accelerating Algebraic Multigrid Methods via Artificial Neural Networks](https://arxiv.org/abs/2111.01629)
 - [Hybrid explicit-implicit learning for multiscale problems with time dependent source](https://arxiv.org/abs/2208.06790)
 - [Learning robust marking policies for adaptive mesh refinement](https://arxiv.org/abs/2207.06339)
 - [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748)
